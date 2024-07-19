@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    font-family: sans-serif;
+}
+.loading-container {
+    height: 80vh;
+    width: 336px;
+    background: url('../img/photo_2024-07-16_09-04-53.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .loading{
+    position: absolute;
+    top: px;
+}
+.Text1{
+  color: chocolate;
+margin-top: 20vh;
+}
+.HamsterLink{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
